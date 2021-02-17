@@ -1,2 +1,2 @@
-# libc_reimplementation
+# relibc
 Reimplementation of libc functions.
